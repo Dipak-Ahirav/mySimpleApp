@@ -1,0 +1,18 @@
+a {
+    cursor: pointer;
+}
+ul li{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius:5px;
+    background-color: teal;
+    color: white;
+    margin-right:5px;   
+}
+.active{
+    background-color: red;
+}
+.addd{
+    background-color: aqua;
+    color: yellow;
+}
